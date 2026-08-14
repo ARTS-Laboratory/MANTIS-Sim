@@ -1,0 +1,5 @@
+# V0.1.1
+1. An Claude generated basic code that does audio and vision-based tracking
+1. This work was fed the following two papers to build off of for hardare:
+	1. Sensors and hexacopter to track: Nolan Shute, Md Asifuzzaman Khan, Joud N. Satme, Mark Zhang, Korebami Adebajo, Austin R. J. Downey, and Matt Folsom. Vision-based UAV localization using a fisheye ground-camera network for sensor package deployment in post-disaster structure inspection. In Raja Suresh, Robert Diltz, and Christopher T. Goodin, editors, Unmanned Systems Technology XXVIII, page 6. SPIE, 2026. doi:10.1117/12.3095325
+	1. Fixed-wing UAV to track: Matthew Burnett, Mateo E. Garcia-Sandoval, Korebami O. Adebajo, and Austin R. J. Downey. Airframe architecture and design of the SWIFT-UAV: An open-source 20 kg-class 3D-printed fixed-wing research platform. In Proceedings of the ASME 2026 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE). ASME, 2026.
